@@ -10,7 +10,6 @@
             "description": "Learn full-stack web development from scratch.",
             "image": "https://i.ibb.co.com/NXzrPcB/course01.jpg",
             "category": "Development",
-            "isNewCourse": true,
             "curriculum": [
                 "HTML & CSS Basics",
                 "JavaScript Fundamentals",
@@ -32,6 +31,7 @@
             "image": "https://i.ibb.co.com/ZzjRFSVk/course02.jpg",
             "category": "Development",
             "isNewCourse": true,
+            "popularCourse": true,
             "curriculum": [
                 "React Hooks",
                 "Context API",
@@ -52,6 +52,7 @@
             "description": "Learn UI/UX design basics.",
             "image": "https://i.ibb.co.com/ccLRm6bS/course03.jpg",
             "category": "Design",
+            "popularCourse": true,
             "curriculum": [
                 "Design Principles",
                 "Color Theory",
@@ -72,6 +73,7 @@
             "description": "Learn data analysis and machine learning.",
             "image": "https://i.ibb.co.com/93ytCWnW/course04.jpg",
             "category": "Data Science",
+            "isNewCourse": true,
             "curriculum": [
                 "Python Basics",
                 "NumPy & Pandas",
@@ -113,6 +115,7 @@
             "image": "https://i.ibb.co.com/kW3qvVc/course06.jpg",
             "category": "Data Science",
             "isNewCourse": true,
+            "popularCourse": true,
             "curriculum": [
                 "Introduction to ML",
                 "Supervised Learning",
