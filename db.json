@@ -184,7 +184,7 @@
             "title": "Learn New Skills, Unlock Your Future",
             "description": "Explore top-quality courses in Web Development, Design, Marketing and more. Learn from expert instructors and build the skills to advance your career.",
             "image": "bannerSlideOne",
-            "primaryLink": "/courses",
+            "primaryLink": "/allcourses",
             "primaryText": "Explore Courses",
             "secondaryLink": "/about",
             "secondaryText": "How It Works",
@@ -220,7 +220,7 @@
             "image": "bannerSlideTwo",
             "primaryLink": "/register",
             "primaryText": "Start Learning",
-            "secondaryLink": "/courses",
+            "secondaryLink": "/allcourses",
             "secondaryText": "View Tracks",
             "stats": [
                 {
@@ -252,7 +252,7 @@
             "title": "Build Confidence From Anywhere, Anytime",
             "description": "Study from home, stay consistent with simple lessons, and grow your confidence with a calm online learning experience.",
             "image": "bannerSlideThree",
-            "primaryLink": "/courses",
+            "primaryLink": "/allcourses",
             "primaryText": "Explore Courses",
             "secondaryLink": "/login",
             "secondaryText": "Student Login",
