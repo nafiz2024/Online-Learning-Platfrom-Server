@@ -173,5 +173,109 @@
             "rating": 4.7,
             "image": "https://i.ibb.co.com/FThkssP/instructor06.jpg"
         }
+    ],
+    "bannerSlides": [
+        {
+            "id": 1,
+            "badge": "Learn. Grow. Succeed.",
+            "title": "Learn New Skills, Unlock Your Future",
+            "description": "Explore top-quality courses in Web Development, Design, Marketing and more. Learn from expert instructors and build the skills to advance your career.",
+            "image": "bannerSlideOne",
+            "primaryLink": "/courses",
+            "primaryText": "Explore Courses",
+            "secondaryLink": "/about",
+            "secondaryText": "How It Works",
+            "stats": [
+                {
+                    "id": 1,
+                    "icon": "<FiUsers />",
+                    "value": "100+",
+                    "label": "Expert Instructors",
+                    "color": "text-violet-600"
+                },
+                {
+                    "id": 2,
+                    "icon": "<FiBookOpen />",
+                    "value": "500+",
+                    "label": "Courses",
+                    "color": "text-emerald-600"
+                },
+                {
+                    "id": 3,
+                    "icon": "<FiPlayCircle />",
+                    "value": "50K+",
+                    "label": "Students",
+                    "color": "text-amber-500"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "badge": "Learn. Grow. Succeed.",
+            "title": "Practical Learning With Mentor Support",
+            "description": "Choose flexible classes, follow a guided roadmap, and improve step by step with projects that feel useful and beginner friendly.",
+            "image": "bannerSlideTwo",
+            "primaryLink": "/register",
+            "primaryText": "Start Learning",
+            "secondaryLink": "/courses",
+            "secondaryText": "View Tracks",
+            "stats": [
+                {
+                    "id": 1,
+                    "icon": "<FiUsers />",
+                    "value": "100+",
+                    "label": "Expert Instructors",
+                    "color": "text-violet-600"
+                },
+                {
+                    "id": 2,
+                    "icon": "<FiBookOpen />",
+                    "value": "500+",
+                    "label": "Courses",
+                    "color": "text-emerald-600"
+                },
+                {
+                    "id": 3,
+                    "icon": "<FiPlayCircle />",
+                    "value": "Lifetime",
+                    "label": "Access",
+                    "color": "text-sky-600"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "badge": "Learn. Grow. Succeed.",
+            "title": "Build Confidence From Anywhere, Anytime",
+            "description": "Study from home, stay consistent with simple lessons, and grow your confidence with a calm online learning experience.",
+            "image": "bannerSlideThree",
+            "primaryLink": "/courses",
+            "primaryText": "Explore Courses",
+            "secondaryLink": "/login",
+            "secondaryText": "Student Login",
+            "stats": [
+                {
+                    "id": 1,
+                    "icon": "<FiUsers />",
+                    "value": "100+",
+                    "label": "Expert Instructors",
+                    "color": "text-violet-600"
+                },
+                {
+                    "id": 2,
+                    "icon": "<FiBookOpen />",
+                    "value": "500+",
+                    "label": "Courses",
+                    "color": "text-emerald-600"
+                },
+                {
+                    "id": 3,
+                    "icon": "<FiPlayCircle />",
+                    "value": "Lifetime",
+                    "label": "Access",
+                    "color": "text-sky-600"
+                }
+            ]
+        }
     ]
 }
