@@ -1,0 +1,174 @@
+{
+    "course": [
+        {
+            "id": 1,
+            "title": "Complete Web Development Bootcamp",
+            "instructor": "John Doe",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Learn full-stack web development from scratch.",
+            "image": "https://i.ibb.co.com/NXzrPcB/course01.jpg",
+            "category": "Development",
+            "curriculum": [
+                "HTML & CSS Basics",
+                "JavaScript Fundamentals",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "MongoDB",
+                "Final Project"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Advanced React & Next.js",
+            "instructor": "Sarah Khan",
+            "duration": "15 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Master modern React and Next.js.",
+            "image": "https://i.ibb.co.com/ZzjRFSVk/course02.jpg",
+            "category": "Development",
+            "curriculum": [
+                "React Hooks",
+                "Context API",
+                "Next.js Routing",
+                "Server Components",
+                "Authentication",
+                "API Integration",
+                "Deployment"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "UI/UX Design Fundamentals",
+            "instructor": "Emily Carter",
+            "duration": "12 hours",
+            "rating": 4.6,
+            "level": "Beginner",
+            "description": "Learn UI/UX design basics.",
+            "image": "https://i.ibb.co.com/ccLRm6bS/course03.jpg",
+            "category": "Design",
+            "curriculum": [
+                "Design Principles",
+                "Color Theory",
+                "Typography",
+                "Wireframing",
+                "Prototyping",
+                "Figma Basics",
+                "User Testing"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Data Science with Python",
+            "instructor": "Michael Lee",
+            "duration": "18 hours",
+            "rating": 4.9,
+            "level": "Intermediate",
+            "description": "Learn data analysis and machine learning.",
+            "image": "https://i.ibb.co.com/93ytCWnW/course04.jpg",
+            "category": "Data Science",
+            "curriculum": [
+                "Python Basics",
+                "NumPy & Pandas",
+                "Data Visualization",
+                "Statistics",
+                "Machine Learning",
+                "Model Evaluation",
+                "Project"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Digital Marketing Mastery",
+            "instructor": "David Smith",
+            "duration": "10 hours",
+            "rating": 4.5,
+            "level": "Beginner",
+            "description": "Learn digital marketing strategies.",
+            "image": "https://i.ibb.co.com/m5KS1ZD1/course05.jpg",
+            "category": "Marketing",
+            "curriculum": [
+                "SEO Basics",
+                "Social Media Marketing",
+                "Content Marketing",
+                "Email Marketing",
+                "Google Ads",
+                "Analytics",
+                "Campaign Strategy"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Machine Learning Basics",
+            "instructor": "Ayesha Rahman",
+            "duration": "16 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Understand ML algorithms and concepts.",
+            "image": "https://i.ibb.co.com/kW3qvVc/course06.jpg",
+            "category": "Data Science",
+            "curriculum": [
+                "Introduction to ML",
+                "Supervised Learning",
+                "Unsupervised Learning",
+                "Regression",
+                "Classification",
+                "Neural Networks",
+                "Final Project"
+            ]
+        }
+    ],
+    "instructor": [
+        {
+            "id": 1,
+            "name": "Tanvir Hasan",
+            "expertise": "Full Stack Development",
+            "courses": 12,
+            "rating": 4.8,
+            "image": "https://i.ibb.co.com/NnQ7R685/instructor01.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Nusrat Jahan",
+            "expertise": "React & Next.js",
+            "courses": 10,
+            "rating": 4.7,
+            "image": "https://i.ibb.co.com/fdLp1g7n/instructor02.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mahin Ahmed",
+            "expertise": "UI/UX Design",
+            "courses": 8,
+            "rating": 4.6,
+            "image": "https://i.ibb.co.com/VWx7th6x/instructor03.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Fahim Rahman",
+            "expertise": "Data Science",
+            "courses": 15,
+            "rating": 4.9,
+            "image": "https://i.ibb.co.com/B2QWMQP6/instructor04.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Sadia Islam",
+            "expertise": "Digital Marketing",
+            "courses": 7,
+            "rating": 4.5,
+            "image": "https://i.ibb.co.com/9kTHCYmF/instructor05.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Nadira Akter",
+            "expertise": "Machine Learning",
+            "courses": 9,
+            "rating": 4.7,
+            "image": "https://i.ibb.co.com/FThkssP/instructor06.jpg"
+        }
+    ]
+}
