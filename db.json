@@ -128,54 +128,62 @@
         }
     ],
     "instructor": [
-        {
-            "id": 1,
-            "name": "Jhankar Mahbub",
-            "expertise": "Full Stack Development",
-            "courses": 12,
-            "rating": 4.8,
-            "image": "https://i.ibb.co.com/NnQ7R685/instructor01.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Moriam Akter Swarna",
-            "expertise": "React & Next.js",
-            "courses": 10,
-            "rating": 4.7,
-            "image": "https://i.ibb.co.com/fdLp1g7n/instructor02.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Ahashan Habib Utsho",
-            "expertise": "UI/UX Design",
-            "courses": 8,
-            "rating": 4.6,
-            "image": "https://i.ibb.co.com/VWx7th6x/instructor03.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Azizul Islam Milton",
-            "expertise": "Data Science",
-            "courses": 15,
-            "rating": 4.9,
-            "image": "https://i.ibb.co.com/B2QWMQP6/instructor04.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Rokibul Hasan Rokib",
-            "expertise": "Digital Marketing",
-            "courses": 7,
-            "rating": 4.5,
-            "image": "https://i.ibb.co.com/9kTHCYmF/instructor05.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Nadira Akter",
-            "expertise": "Machine Learning",
-            "courses": 9,
-            "rating": 4.7,
-            "image": "https://i.ibb.co.com/FThkssP/instructor06.jpg"
-        }
+        [
+            {
+                "id": 1,
+                "name": "Jhankar Mahbub",
+                "expertise": "Full Stack Development",
+                "description": "Specializes in building scalable web applications using modern frontend and backend technologies, with a strong focus on real-world problem solving.",
+                "courses": 12,
+                "rating": 4.8,
+                "image": "https://i.ibb.co.com/NnQ7R685/instructor01.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Moriam Akter Swarna",
+                "expertise": "React & Next.js",
+                "description": "Expert in crafting high-performance, SEO-friendly web apps using React and Next.js with modern UI patterns and best practices.",
+                "courses": 10,
+                "rating": 4.7,
+                "image": "https://i.ibb.co.com/fdLp1g7n/instructor02.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Ahashan Habib Utsho",
+                "expertise": "UI/UX Design",
+                "description": "Focuses on creating intuitive and user-centered designs, combining visual aesthetics with seamless user experience strategies.",
+                "courses": 8,
+                "rating": 4.6,
+                "image": "https://i.ibb.co.com/VWx7th6x/instructor03.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Azizul Islam Milton",
+                "expertise": "Data Science",
+                "description": "Experienced in data analysis, visualization, and predictive modeling to extract meaningful insights and drive data-driven decisions.",
+                "courses": 15,
+                "rating": 4.9,
+                "image": "https://i.ibb.co.com/B2QWMQP6/instructor04.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Sadiya Islam",
+                "expertise": "Digital Marketing",
+                "description": "Skilled in growth strategies, social media marketing, and performance campaigns to maximize brand reach and engagement.",
+                "courses": 7,
+                "rating": 4.5,
+                "image": "https://i.ibb.co.com/9kTHCYmF/instructor05.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Nadira Akter",
+                "expertise": "Machine Learning",
+                "description": "Works on building intelligent systems using machine learning models, focusing on real-world applications and automation.",
+                "courses": 9,
+                "rating": 4.7,
+                "image": "https://i.ibb.co.com/FThkssP/instructor06.jpg"
+            }
+        ]
     ],
     "bannerSlides": [
         {
