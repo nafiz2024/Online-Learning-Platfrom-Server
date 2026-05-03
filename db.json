@@ -3,13 +3,14 @@
         {
             "id": 1,
             "title": "Complete Web Development Bootcamp",
-            "instructor": "John Doe",
+            "instructor": "Jhankar Mahbub",
             "duration": "20 hours",
             "rating": 4.8,
             "level": "Beginner",
             "description": "Learn full-stack web development from scratch.",
             "image": "https://i.ibb.co.com/NXzrPcB/course01.jpg",
             "category": "Development",
+            "isNewCourse": true,
             "curriculum": [
                 "HTML & CSS Basics",
                 "JavaScript Fundamentals",
@@ -23,13 +24,14 @@
         {
             "id": 2,
             "title": "Advanced React & Next.js",
-            "instructor": "Sarah Khan",
+            "instructor": "Moriam Akter Swarna",
             "duration": "15 hours",
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Master modern React and Next.js.",
             "image": "https://i.ibb.co.com/ZzjRFSVk/course02.jpg",
             "category": "Development",
+            "isNewCourse": true,
             "curriculum": [
                 "React Hooks",
                 "Context API",
@@ -43,7 +45,7 @@
         {
             "id": 3,
             "title": "UI/UX Design Fundamentals",
-            "instructor": "Emily Carter",
+            "instructor": "Ahashan Habib Utsho",
             "duration": "12 hours",
             "rating": 4.6,
             "level": "Beginner",
@@ -63,7 +65,7 @@
         {
             "id": 4,
             "title": "Data Science with Python",
-            "instructor": "Michael Lee",
+            "instructor": "Azizul Islam Milton",
             "duration": "18 hours",
             "rating": 4.9,
             "level": "Intermediate",
@@ -83,7 +85,7 @@
         {
             "id": 5,
             "title": "Digital Marketing Mastery",
-            "instructor": "David Smith",
+            "instructor": "Rokibul Hasan Rokib",
             "duration": "10 hours",
             "rating": 4.5,
             "level": "Beginner",
@@ -103,13 +105,14 @@
         {
             "id": 6,
             "title": "Machine Learning Basics",
-            "instructor": "Ayesha Rahman",
+            "instructor": "Nadira Akter",
             "duration": "16 hours",
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Understand ML algorithms and concepts.",
             "image": "https://i.ibb.co.com/kW3qvVc/course06.jpg",
             "category": "Data Science",
+            "isNewCourse": true,
             "curriculum": [
                 "Introduction to ML",
                 "Supervised Learning",
@@ -124,7 +127,7 @@
     "instructor": [
         {
             "id": 1,
-            "name": "Tanvir Hasan",
+            "name": "Jhankar Mahbub",
             "expertise": "Full Stack Development",
             "courses": 12,
             "rating": 4.8,
@@ -132,7 +135,7 @@
         },
         {
             "id": 2,
-            "name": "Nusrat Jahan",
+            "name": "Moriam Akter Swarna",
             "expertise": "React & Next.js",
             "courses": 10,
             "rating": 4.7,
@@ -140,7 +143,7 @@
         },
         {
             "id": 3,
-            "name": "Mahin Ahmed",
+            "name": "Ahashan Habib Utsho",
             "expertise": "UI/UX Design",
             "courses": 8,
             "rating": 4.6,
@@ -148,7 +151,7 @@
         },
         {
             "id": 4,
-            "name": "Fahim Rahman",
+            "name": "Azizul Islam Milton",
             "expertise": "Data Science",
             "courses": 15,
             "rating": 4.9,
@@ -156,7 +159,7 @@
         },
         {
             "id": 5,
-            "name": "Sadia Islam",
+            "name": "Rokibul Hasan Rokib",
             "expertise": "Digital Marketing",
             "courses": 7,
             "rating": 4.5,
